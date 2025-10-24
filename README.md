@@ -66,13 +66,6 @@ Gaming | PC Tech | Anime | Gundam Model Building
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oarabile%20Matlala-0077B5?logo=linkedin)](https://www.linkedin.com/in/oarabile-matlala-849627341)
 [![Email](https://img.shields.io/badge/Email-oster3450%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:oster3450@gmail.com)
 
----
-
-### ⚡ GitHub Stats
-![Oarabile's GitHub stats](https://github-readme-stats.vercel.app/api?username=u21740012&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u21740012&layout=compact&theme=tokyonight)
-
-
 <!--
 **u21740012/u21740012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
